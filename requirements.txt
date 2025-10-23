@@ -1,0 +1,9 @@
+
+Flask==3.0.0
+tensorflow
+keras
+#numpy==1.23.5
+Pillow
+opencv-python
+Werkzeug==3.0.1
+gunicorn==21.2.0
